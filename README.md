@@ -199,15 +199,17 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/JMixson/custom-readme-template.svg?style=for-the-badge
-[contributors-url]: graphs/contributors
+[contributors-url]: https://github.com/JMixson/custom-readme-template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/JMixson/custom-readme-template.svg?style=for-the-badge
-[forks-url]: network/members
+[forks-url]: https://github.com/JMixson/custom-readme-template/network/members
 [stars-shield]: https://img.shields.io/github/stars/JMixson/custom-readme-template.svg?style=for-the-badge
-[stars-url]: stargazers
+[stars-url]: https://github.com/JMixson/custom-readme-template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/JMixson/custom-readme-template.svg?style=for-the-badge
-[issues-url]: issues
+[issues-url]: https://github.com/JMixson/custom-readme-template/issues
 [license-shield]: https://img.shields.io/github/license/JMixson/custom-readme-template.svg?style=for-the-badge
 [license-url]: LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
