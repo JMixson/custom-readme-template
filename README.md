@@ -15,7 +15,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -136,7 +136,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Add MIT license
+- [x] Add MIT license
 
 See the [open issues](JMixson/custom-readme-template) for a full list of proposed features (and known issues).
 
@@ -207,7 +207,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-shield]: https://img.shields.io/github/issues/JMixson/custom-readme-template.svg?style=for-the-badge
 [issues-url]: https://github.com/JMixson/custom-readme-template/issues
 [license-shield]: https://img.shields.io/github/license/JMixson/custom-readme-template.svg?style=for-the-badge
-[license-url]: https://github.com/JMixson/custom-readme-template/blob/main/LICENSE.md
+[license-url]: LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.jpg
